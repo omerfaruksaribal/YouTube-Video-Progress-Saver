@@ -35,7 +35,7 @@ Bu proje, YouTube videolarında belirli bir süreyi manuel olarak kaydetmenizi v
 1. Bu deposunu yerel makinenize indirin veya kopyalayın:
 * ``` git clone https://github.com/omerfaruksaribal/YouTube-Video-Sure-Kaydedici.git ```
 2. Google Chrome'u açın ve chrome://extensions/ adresine gidin.
-3. Üst sağ köşede Geliştirici Modunu etkinleştirin.
+3. Sağ üst köşede Geliştirici Modunu etkinleştirin.
 4. Paketlenmemiş Yükle butonuna tıklayın ve bu deposunun bulunduğu klasörü seçin.
 5. Uzantı, tarayıcınızın araç çubuğunda görünecektir.
 
