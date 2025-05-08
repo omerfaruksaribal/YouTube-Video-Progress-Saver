@@ -8,7 +8,7 @@ This project is a Chrome extension that allows users to manually save and apply 
 
 ## Installation
 1. Download or clone this repository to your local machine:
-- ``` git clone https://github.com/your-username/YouTube-Video-Time-Saver.git ```
+- ``` git clone https://github.com/omerfaruksaribal/YouTube-Video-Time-Saver.git ```
 2. Open Google Chrome and navigate to chrome://extensions/
 3. Enable Developer mode by toggling the switch on the top-right.
 4. Click on Load unpacked and select the folder where this repository is located.
